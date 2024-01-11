@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_ALkHka9zEe6b9LmWG9IKLA" label="arthatest" description="" language="java" technicalLabel="ARTHATEST" author="_ALkHkq9zEe6b9LmWG9IKLA" productVersion="Talend Cloud Data Fabric-8.0.1.20231017_1026-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/rahmanadwi10/arthatest.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_ALkHka9zEe6b9LmWG9IKLA" label="arthatest" description="" language="java" technicalLabel="ARTHATEST" author="_ALkHkq9zEe6b9LmWG9IKLA" productVersion="Talend Cloud Data Fabric-8.0.1.20231222_1430-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/rahmanadwi10/arthatest.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_ANDVUK9zEe6b9LmWG9IKLA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_ALkHkq9zEe6b9LmWG9IKLA" login="luxlakshmanan@thinkarthacom_nfr" firstName="Lux" lastName="Lakshmanan" type="DQ"/>
