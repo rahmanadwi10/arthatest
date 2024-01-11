@@ -1,0 +1,1327 @@
+[ {
+  "baseItem" : {
+    "id" : "_EQl68M0WEeqsc64esGcxAg",
+    "version" : "3.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_HJNsoO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_MCJxgO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_U4FpsO0fEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EQl68M0WEeqsc64esGcxAg",
+    "version" : "3.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_HJNsoO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_MCJxgO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_U4FpsO0fEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EQl68M0WEeqsc64esGcxAg",
+    "version" : "3.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_HJNsoO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_MCJxgO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_U4FpsO0fEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EQl68M0WEeqsc64esGcxAg",
+    "version" : "3.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_HJNsoO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_MCJxgO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_U4FpsO0fEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EQl68M0WEeqsc64esGcxAg",
+    "version" : "3.4",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_HJNsoO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_MCJxgO0kEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_U4FpsO0fEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EQl68c0WEeqsc64esGcxAg",
+    "version" : "3.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EQlT4M0WEeqsc64esGcxAg",
+    "version" : "3.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_U4FpsO0fEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_HJNsoO0kEem-g80j7z_HMg",
+    "version" : "3.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EnitityFileRuleParamID",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EntityFileRuleParam",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Int",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "4.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_EQl68M0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_EQl68c0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_EQlT4M0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_jbmK4O0pEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_oNiP4O0pEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "4.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_EQl68M0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_EQl68c0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_EQlT4M0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_jbmK4O0pEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_oNiP4O0pEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "4.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_EQl68M0WEeqsc64esGcxAg",
+    "version" : "3.3",
+    "type" : "job"
+  }, {
+    "id" : "_EQl68c0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_EQlT4M0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_jbmK4O0pEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_oNiP4O0pEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "4.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DIP_MARIADB_ONPREM:_EQl68M0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_EQl68c0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_EQlT4M0WEeqsc64esGcxAg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_jbmK4O0pEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_oNiP4O0pEem-g80j7z_HMg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_JntIQLArEe6k0uTHVQCY7A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_YKua4LAtEe61C6Xcsxn0Wg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_aq21ULAtEe61C6Xcsxn0Wg",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_7v6AELAsEe61C6Xcsxn0Wg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GqdpILAtEe61C6Xcsxn0Wg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_GqdpILAtEe61C6Xcsxn0Wg - data_pegawai",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_MCJxgO0kEem-g80j7z_HMg",
+    "version" : "3.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EnitityFileRuleParamID",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EntityFileRuleParam",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Int",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_MCJxgO0kEem-g80j7z_HMg",
+    "version" : "3.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EnitityFileRuleParamID",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EntityFileRuleParam",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Int",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_MCJxgO0kEem-g80j7z_HMg",
+    "version" : "3.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EnitityFileRuleParamID",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EntityFileRuleParam",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Int",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_MCJxgO0kEem-g80j7z_HMg",
+    "version" : "3.3",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EnitityFileRuleParamID",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "EntityFileRuleParam",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "Int",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_jbmK4O0pEem-g80j7z_HMg",
+    "version" : "4.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_oNiP4O0pEem-g80j7z_HMg",
+    "version" : "3.0",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_-tcRoPHuEemzULejv-c64g",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wcctkPEEEem-g80j7z_HMg",
+    "version" : "4.2",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SRLqIFOvEeq5oMdUWqrVGA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DIP_MARIADB:_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wcctkPEEEem-g80j7z_HMg",
+    "version" : "4.4",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SRLqIFOvEeq5oMdUWqrVGA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DIP_MARIADB:_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wcctkPEEEem-g80j7z_HMg",
+    "version" : "4.5",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SRLqIFOvEeq5oMdUWqrVGA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DIP_MARIADB:_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wcctkPEEEem-g80j7z_HMg",
+    "version" : "4.6",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SRLqIFOvEeq5oMdUWqrVGA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DIP_MARIADB:_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wcctkPEEEem-g80j7z_HMg",
+    "version" : "4.7",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SRLqIFOvEeq5oMdUWqrVGA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DIP_MARIADB:_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wcctkPEEEem-g80j7z_HMg",
+    "version" : "4.8",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SRLqIFOvEeq5oMdUWqrVGA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DIP_MARIADB:_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_wcctkPEEEem-g80j7z_HMg",
+    "version" : "4.9",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_DZ_yoAgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_DZ_yoQgwEeqQIp97hjPdRw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_SRLqIFOvEeq5oMdUWqrVGA",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_wrY3oPXNEeS0hNY-Kc-sow",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DIP_MARIADB:_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "_JAQKMshDEeqxmP3FBeQbHA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataMasking",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQualityDependencies",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]
